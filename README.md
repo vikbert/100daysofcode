@@ -41,10 +41,12 @@ Full list of resources I found for my 100 days challenge:
 * [MDN - JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [Codecademy - Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
-## The Log
-
-You can find the [log](LOG.md) inside the current repository. I also did a quick [writeup](END.md) of my thoughts after completing the challenge.
+## Articles
+* <https://www.codingame.com/blog/100-days-of-code-challenge/>
+* <https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73>
+* <https://blog.usejournal.com/100daysofcode-my-own-experience-of-the-challenge-cca34ec1e204>
+* 
 
 ## The Start
 
-> 01.01.2018
+> 04.01.2020
