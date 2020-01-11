@@ -1,7 +1,8 @@
 # Log
 
-## Day 1
->06.01.2020 more than 1 hour
+## Day 01
+
+> 06.01.2020 more than 1 hour
 
 **Goal:**
 
@@ -13,7 +14,7 @@ did some plans for the furture challenge
 
 **Link:**
 
-## Day 2
+## Day 02
 
 > 07.01.2020
 
@@ -21,11 +22,11 @@ did some plans for the furture challenge
 
 **Time:** more than 1 hour
 
-## Day 3
+## Day 03
 
 > 08.01.2020
 
-**Progress**: 
+**Progress**:
 
 build a Todo App with ReactJS and PreactJS and make the comparision of their performance.
 
@@ -36,7 +37,7 @@ build a Todo App with ReactJS and PreactJS and make the comparision of their per
 
 **Time:** about 2 hours
 
-## Day 4
+## Day 04
 
 > 09.01.2020
 
@@ -44,7 +45,7 @@ build a Todo App with ReactJS and PreactJS and make the comparision of their per
 
 **Time:** about 2 hours
 
-## Day 5
+## Day 05
 
 > 09.01.2020
 
@@ -57,7 +58,8 @@ build a Todo App with ReactJS and PreactJS and make the comparision of their per
 
 **Time:** about 2 hours
 
-## Day 6
+## Day 06
+
 > 10.01.2020
 
 **Goal:**
@@ -66,15 +68,43 @@ CSS: Applied Accessibilty
 
 **Notes:**
 
-* HTML5 Elements: article, main, nav, section, footer, figure, audi, fieldset, datepicker
-* keyboard: tabindex
+- HTML5 Elements: article, main, nav, section, footer, figure, audi, fieldset, datepicker
+- keyboard: tabindex
 
 **Link:**
 
 <https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/>
 
+## Day 7
 
+> 11.01.2020
 
+**Goal:**
 
+CSS: grid system
 
+**Notes:**
 
+- display: grid;
+- grid-template-columns: to define the width and units of columns
+  - grid-template-columns: auto 50px 10% 2fr 1fr;
+    - above defined 5x columns
+    - auto: width based on the content (col-1)
+    - 50px: width to 50px (col-2)
+    - 10%: width to 10% of parent container (col-3)
+    - 2fr: 2/3 of rest space (col-4)
+    - 1fr: 1/3 of rest space (col-5)
+- grid-template-rows: to define the height and units of rows
+- grid-column-gap: define the gap for columns
+- grid-row-gap: define the gap of row
+- grid-gap: {row_gap} {col-gap}
+- grid-column: 1/3; use the index of column-line to consume the columns
+- grid-column: 2/4; use the index of row-line to consume the rows
+- grid-area: define the placeholder of area, then replace them with any items
+- grid-area: 1/1/3/4; "h-start/v-start/h-end/v-end"
+- grid-template-columns: repeat(3, 1fr); apply the repeated definition
+- grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); this creates the dynamic columns with auto-fill
+
+**Link:**
+
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid
