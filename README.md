@@ -47,9 +47,10 @@ Full list of resources I found for my 100 days challenge:
 
 ## Articles
 
-- <https://www.codingame.com/blog/100-days-of-code-challenge/>
-- <https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73>
-- <https://blog.usejournal.com/100daysofcode-my-own-experience-of-the-challenge-cca34ec1e204>
+- [article: 100daysofcode challenge](https://www.codingame.com/blog/100-days-of-code-challenge/)
+- [article: 100daysofcode change my life](https://medium.com/@robewawebdesign/how-100-days-of-code-changed-my-life-37cdc891db73)
+- [article: My experince with 100daysofcode](https://blog.usejournal.com/100daysofcode-my-own-experience-of-the-challenge-cca34ec1e204)
+- [video: create a portfolio](https://scrimba.com/p/pvwkvhx/cNqRvZsw)
 
 ## The Start
 
