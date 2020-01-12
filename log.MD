@@ -108,3 +108,19 @@ CSS: grid system
 **Link:**
 
 https://www.freecodecamp.org/learn/responsive-web-design/css-grid
+
+## Day 8
+
+> 12.01.2020
+
+**Goal:**
+
+complete the css grid course and start one of project in the last section
+
+**Notes:**
+
+- combine `grid-template-areas`, `grid-template-columns` & `grid-template-rows` with `media query` to create a fantastic responsive site
+- completed `tribute page` on https://codepen.io/vikbert/pen/gObzJzG
+
+**Link:**
+[css grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill)
