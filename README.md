@@ -20,10 +20,20 @@ These 100 days are focused on **improving my JavaScript knowledge**.
 
 I am going to focus on a couple of key points:
 
+### Basic JavaScript/ES6
 - Refresh my basic JavaScript knowledge (e.g [FreeCodeCamp](https://www.freecodecamp.org))
 - Learning new syntax (e.g [ES6 for Everyone](https://es6.io/))
 - Solving real world problems (e.g [JavaScript 30](https://javascript30.com/))
 
+### React Hooks (advanced)
+
+### Firebase API
+
+### GraphQL API
+
+### ExpressJS + MongoDB
+
+### Material UI Architecture (advanced)
 The resources above are subject to change but should keep me busy the next 100 days.
 
 ## Resources
