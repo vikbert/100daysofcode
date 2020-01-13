@@ -44,7 +44,7 @@ Full list of resources I found for my 100 days challenge:
 - [ Fun Fun Function - Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - [MDN - JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Codecademy - Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-
+- [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 ## Articles
 
 - [article: 100daysofcode challenge](https://www.codingame.com/blog/100-days-of-code-challenge/)

@@ -1,9 +1,11 @@
 body {
   font-size: 1.4em;
 }
+
 .vscode-dark a {
   color: #61afef;
 }
+
 .vscode-dark a:before {
   content: "☞ ";
 }
@@ -11,6 +13,7 @@ body {
 .vscode-dark h2 {
   color: rgb(245, 176, 47);
 }
+
 .vscode-dark h3,
 .vscode-dark h4,
 .vscode-dark h5,
@@ -29,22 +32,22 @@ body {
 }
 
 .vscode-dark pre:not(.hljs),
-.vscode-dark code > div {
+.vscode-dark code>div {
   background-color: #2c323c;
 }
 
-.vscode-dark table > thead > tr > th {
+.vscode-dark table>thead>tr>th {
   border-color: #c0c1c2;
 }
 
 .vscode-dark hr,
-.vscode-dark table > tbody > tr + tr > td {
+.vscode-dark table>tbody>tr+tr>td {
   border-color: #2c323c;
 }
 
 .vscode-dark blockquote {
-  color: #5c6370;
-  font-style: italic;
-  background: transparent;
-  border-color: #2c323c;
+  color: #e0e1e4;
+  padding: 0 1em;
+  border-left: 0.55em solid rgb(184, 183, 180);
+  background: rgb(67, 67, 67);
 }
