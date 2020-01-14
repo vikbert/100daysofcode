@@ -21,6 +21,7 @@ These 100 days are focused on **improving my JavaScript knowledge**.
 I am going to focus on a couple of key points:
 
 ### Basic JavaScript/ES6
+
 - Refresh my basic JavaScript knowledge (e.g [FreeCodeCamp](https://www.freecodecamp.org))
 - Learning new syntax (e.g [ES6 for Everyone](https://es6.io/))
 - Solving real world problems (e.g [JavaScript 30](https://javascript30.com/))
@@ -34,7 +35,12 @@ I am going to focus on a couple of key points:
 ### ExpressJS + MongoDB
 
 ### Material UI Architecture (advanced)
+
 The resources above are subject to change but should keep me busy the next 100 days.
+
+- Customize material-UI framework
+- Architecture of material-UI
+- Integration of symfony framework
 
 ## Resources
 
@@ -55,6 +61,7 @@ Full list of resources I found for my 100 days challenge:
 - [MDN - JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Codecademy - Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
 ## Articles
 
 - [article: 100daysofcode challenge](https://www.codingame.com/blog/100-days-of-code-challenge/)

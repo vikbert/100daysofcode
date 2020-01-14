@@ -124,3 +124,19 @@ complete the css grid course and start one of project in the last section
 
 **Link:**
 [css grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill)
+
+## Day 9
+
+> 14.01.2020
+
+**Goal:**
+
+complete the project `My Survey Form`
+
+**Notes:**
+
+The project is completed with all passed tests.
+Live Demo: <https://codepen.io/vikbert/pen/qBEyWNG?editors=1100>
+
+**Link:**
+[Project: my survey form on FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
