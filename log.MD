@@ -140,3 +140,18 @@ Live Demo: <https://codepen.io/vikbert/pen/qBEyWNG?editors=1100>
 
 **Link:**
 [Project: my survey form on FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+## Day 10
+
+> 15.01.2020
+
+**Goal:**
+
+create a boilerplate project: Symfony + React = Single page application
+
+**Notes:**
+
+boilerplate project on github: <https://github.com/vikbert/symfony5-react>
+
+**Link:**
+<https://github.com/vikbert/symfony5-react>
