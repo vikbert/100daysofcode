@@ -155,3 +155,26 @@ boilerplate project on github: <https://github.com/vikbert/symfony5-react>
 
 **Link:**
 <https://github.com/vikbert/symfony5-react>
+
+## Day 11
+
+> 16.01.2020
+
+**Goal:**
+
+set up react project from scratch with `webpack`
+
+**Notes:**
+
+webpack.config.js
+
+- [x] setup devserver to serve `HTML` file
+- [x] set rule for `css` files
+- [x] set rule for `js` files
+- [x] set up `react/jsx`
+- [x] set up `hot reloader` for react
+
+**Link:**
+
+[webpack official](https://webpack.js.org/)
+[webpack tutorial](https://blog.marcnuri.com/react-babel-webpack-sass-application/)

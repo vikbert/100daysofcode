@@ -26,6 +26,10 @@ I am going to focus on a couple of key points:
 - Learning new syntax (e.g [ES6 for Everyone](https://es6.io/))
 - Solving real world problems (e.g [JavaScript 30](https://javascript30.com/))
 
+### Master Webpack 4
+
+try to set up the complete react project from scratch with `webpack` and go deep into `create-react-app`
+
 ### React Hooks (advanced)
 
 ### Firebase API
