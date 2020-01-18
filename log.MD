@@ -178,3 +178,33 @@ webpack.config.js
 
 [webpack official](https://webpack.js.org/)
 [webpack tutorial](https://blog.marcnuri.com/react-babel-webpack-sass-application/)
+
+## Day 12
+
+> 17.01.2020
+
+**Notes:**
+
+- continue with the training in `webpack`
+- create the steps to set up webpack for react project
+- create feature branch for each steps to clarify the what have been done.
+
+**Link:**
+<https://github.com/vikbert/webpack-react-from-scratch>
+
+## Day 13
+
+> 18.01.2020
+
+**Goal:**
+
+- set up `eslint` & `prettier`
+- combine both together
+
+**Notes:**
+
+- configured `eslint` and `prettier` in package.json
+
+**Link:**
+feature branch `feature/06_eslinter`
+<https://github.com/vikbert/webpack-react-from-scratch>
