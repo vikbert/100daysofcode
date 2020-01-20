@@ -75,7 +75,7 @@ CSS: Applied Accessibilty
 
 <https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/>
 
-## Day 7
+## Day 07
 
 > 11.01.2020
 
@@ -109,7 +109,7 @@ CSS: grid system
 
 https://www.freecodecamp.org/learn/responsive-web-design/css-grid
 
-## Day 8
+## Day 08
 
 > 12.01.2020
 
@@ -125,7 +125,7 @@ complete the css grid course and start one of project in the last section
 **Link:**
 [css grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill)
 
-## Day 9
+## Day 09
 
 > 14.01.2020
 
@@ -208,3 +208,20 @@ webpack.config.js
 **Link:**
 feature branch `feature/06_eslinter`
 <https://github.com/vikbert/webpack-react-from-scratch>
+
+## Day 14
+> 20.01.2020
+
+**Goal:**
+
+complete `FreeCodeCamp` project for building a product landing page
+
+**Notes:**
+
+the implementation is completed and all tests are passed.
+
+
+**Link:**
+
+<https://codepen.io/vikbert/pen/JjoeoNR?editors=1100>
+
