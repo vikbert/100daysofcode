@@ -220,8 +220,22 @@ complete `FreeCodeCamp` project for building a product landing page
 
 the implementation is completed and all tests are passed.
 
-
 **Link:**
 
 <https://codepen.io/vikbert/pen/JjoeoNR?editors=1100>
+
+## Day 15
+> 21.01.2020
+
+**Goal:**
+
+complete `FreeCodeCamp` project for building a product landing page
+
+**Notes:**
+
+make the landing page full-responsive and finally completed the project
+
+**Link:**
+
+[landing page: demo](https://codepen.io/vikbert/full/JjoeoNR)
 
