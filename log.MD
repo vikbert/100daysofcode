@@ -239,3 +239,13 @@ make the landing page full-responsive and finally completed the project
 
 [landing page: demo](https://codepen.io/vikbert/full/JjoeoNR)
 
+## Day 16
+> 22.01.2020
+
+**Goal:**
+
+start the new project `Build a Technical Documentation Page`
+
+<https://codepen.io/vikbert/pen/povGbOW>
+
+
