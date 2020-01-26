@@ -198,8 +198,7 @@ webpack.config.js
 
 **Goal:**
 
-- set up `eslint` & `prettier`
-- combine both together
+`webpack 4` config for eslint and prettier
 
 **Notes:**
 
@@ -210,11 +209,12 @@ feature branch `feature/06_eslinter`
 <https://github.com/vikbert/webpack-react-from-scratch>
 
 ## Day 14
+
 > 20.01.2020
 
 **Goal:**
 
-complete `FreeCodeCamp` project for building a product landing page
+FreeCodeCamp Project: `building a product landing page`
 
 **Notes:**
 
@@ -225,11 +225,12 @@ the implementation is completed and all tests are passed.
 <https://codepen.io/vikbert/pen/JjoeoNR?editors=1100>
 
 ## Day 15
+
 > 21.01.2020
 
 **Goal:**
 
-complete `FreeCodeCamp` project for building a product landing page
+FreeCodeCamp Project: `building a product landing page`
 
 **Notes:**
 
@@ -240,12 +241,39 @@ make the landing page full-responsive and finally completed the project
 [landing page: demo](https://codepen.io/vikbert/full/JjoeoNR)
 
 ## Day 16
+
 > 22.01.2020
 
 **Goal:**
 
-start the new project `Build a Technical Documentation Page`
+FreeCodeCamp Project:: `Build a Technical Documentation Page`
 
 <https://codepen.io/vikbert/pen/povGbOW>
 
+## Day 17
 
+> 24.01.2020
+
+**Goal:**
+
+FreeCodeCamp Project:: `Build a Technical Documentation Page`
+
+**Link:**
+
+Project Demo: https://codepen.io/vikbert/pen/povGbOW
+
+## Day 18
+
+> 26.01.2020
+
+**Goal:**
+
+FreeCodeCamp Project: `build a personal portfolio page`
+
+**Notes:**
+
+completed the project and claimed the certification for "responsive web design"
+
+**Link:**
+
+Zertikation: https://www.freecodecamp.org/certification/segentor/responsive-web-design
