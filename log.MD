@@ -268,7 +268,7 @@ Project Demo: https://codepen.io/vikbert/pen/povGbOW
 
 **Goal:**
 
-FreeCodeCamp Project: `build a personal portfolio page`
+FreeCodeCamp Project: `build a personal portfolio page`\\\\\$\$
 
 **Notes:**
 
@@ -276,4 +276,53 @@ completed the project and claimed the certification for "responsive web design"
 
 **Link:**
 
-Zertikation: https://www.freecodecamp.org/certification/segentor/responsive-web-design
+- Zertikation: https://www.freecodecamp.org/certification/segentor/responsive-web-design
+- Live Demo: https://codepen.io/vikbert/pen/qBEvQMK
+- Reference Demo: https://html5up.net/ethereal
+
+## Day 19
+
+> 01.02.2020
+
+**Goal:**
+
+PluraSight Tutorial: `getting start with TypeScript`
+
+**Notes:**
+
+Module: creating and using custom types
+
+- interface vs classes
+- extending classes
+- static members
+- constructor
+
+**Link:**
+<https://app.pluralsight.com/course-player?clipId=abd63d70-0e87-412e-9739-75e6f61a9f00>
+
+## Day 20
+
+> 02.02.2020 So.
+
+**Goal:**
+
+PluraSight Tutorial: `getting start with TypeScript`
+
+**Notes:**
+
+Module: creating and consuming modules
+
+- exporting and importing
+- relative vs Non-relative imports
+- module resolution strategies
+- config module resolution
+
+Module: Type declaration files
+
+- what is Type declaration files
+-
+
+**Link:**
+
+<microsoft/github.io/TypeSearch>
+<https://app.pluralsight.com/course-player?clipId=abd63d70-0e87-412e-9739-75e6f61a9f00>
