@@ -268,7 +268,7 @@ Project Demo: https://codepen.io/vikbert/pen/povGbOW
 
 **Goal:**
 
-FreeCodeCamp Project: `build a personal portfolio page`\\\\\$\$
+FreeCodeCamp Project: `build a personal portfolio page`\\\\\\\\$\$
 
 **Notes:**
 
@@ -326,3 +326,24 @@ Module: Type declaration files
 
 <microsoft/github.io/TypeSearch>
 <https://app.pluralsight.com/course-player?clipId=abd63d70-0e87-412e-9739-75e6f61a9f00>
+
+## Day 21
+
+> 02.02.2020
+
+**Goal:**
+
+PluraSight-Tutorial: `Create object-oriented TypeScript code`
+
+**Notes:**
+
+principles of Object-oriented Programming
+
+- abstraction
+- encapsulation
+- inheritance
+- polymorphism
+
+**Link:**
+
+<https://app.pluralsight.com/library/courses/typescript-creating-object-oriented-code>
